@@ -1,0 +1,10 @@
+C:\Users\K0596\source\repos\TenStartMenuFixer\TenStartMenuFixer\bin\Debug\TenStartMenuFixer.exe
+C:\Users\K0596\source\repos\TenStartMenuFixer\TenStartMenuFixer\bin\Debug\TenStartMenuFixer.pdb
+C:\Users\K0596\source\repos\TenStartMenuFixer\TenStartMenuFixer\bin\Debug\TenStartMenuFixer.xml
+C:\Users\K0596\source\repos\TenStartMenuFixer\TenStartMenuFixer\obj\Debug\TenStartMenuFixer.vbprojAssemblyReference.cache
+C:\Users\K0596\source\repos\TenStartMenuFixer\TenStartMenuFixer\obj\Debug\TenStartMenuFixer.Resources.resources
+C:\Users\K0596\source\repos\TenStartMenuFixer\TenStartMenuFixer\obj\Debug\TenStartMenuFixer.vbproj.GenerateResource.cache
+C:\Users\K0596\source\repos\TenStartMenuFixer\TenStartMenuFixer\obj\Debug\TenStartMenuFixer.vbproj.CoreCompileInputs.cache
+C:\Users\K0596\source\repos\TenStartMenuFixer\TenStartMenuFixer\obj\Debug\TenStartMenuFixer.exe
+C:\Users\K0596\source\repos\TenStartMenuFixer\TenStartMenuFixer\obj\Debug\TenStartMenuFixer.xml
+C:\Users\K0596\source\repos\TenStartMenuFixer\TenStartMenuFixer\obj\Debug\TenStartMenuFixer.pdb
