@@ -29,7 +29,7 @@ Line1:
         Console.WriteLine("")
         Console.WriteLine("Applying fix...")
         My.Computer.Registry.CurrentUser.OpenSubKey("Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\", True).SetValue("Start_ShowClassicMode", 1, RegistryValueKind.DWord)
-        Console.WriteLine("Fix successful! Please restart your PC.")
+        Console.WriteLine("Fix successful! Please log out and log back in to see the changes.")
         Console.ReadLine()
         End
     End Sub
@@ -39,7 +39,7 @@ Line1:
         Dim key As Microsoft.Win32.RegistryKey
         key = Microsoft.Win32.Registry.CurrentUser.OpenSubKey("Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced", True)
         key.DeleteValue("Start_ShowClassicMode")
-        Console.WriteLine("Fix removed! Restart your PC to see all the changes.")
+        Console.WriteLine("Fix removed! Please log out and log back in to see the changes.")
         Console.ReadLine()
         End
     End Sub
