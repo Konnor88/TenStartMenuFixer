@@ -1,3 +1,6 @@
+# Major Update
+Microsoft has removed the functionality of restoring the Windows 10 start menu on Windows 11 entirely. The last build this program works on is Build 22000.51, and that build even requires a workaround of replacing the explorer.exe inside of it with the one from the original leak. I will keep this repository up for archive purposes and for people interested in using it on the initial leaked build (build 21996.1) or build 22000.51.
+
 # TenStartMenuFixer
 Simple application that restores the Windows 10 start menu on Windows 11. Can be toggled on or off.
 
